@@ -78,3 +78,29 @@ plt.legend(pie[0], labels, loc="upper right")
 plt.show()
 
 ```
+##output:
+![multi 1](https://user-images.githubusercontent.com/119122478/229035398-0254107f-23b6-4051-9ab5-1a3dd1b05ae2.png)
+![image](https://user-images.githubusercontent.com/119122478/229035725-0e7f711f-8e18-4d3b-a891-af463a18d2c7.png)
+![image](https://user-images.githubusercontent.com/119122478/229035957-3c8bef45-ae41-4b0e-b867-7efdd6abc134.png)
+![image](https://user-images.githubusercontent.com/119122478/229036061-990dce2f-708b-41be-8b67-701bf8dfe16d.png)
+![image](https://user-images.githubusercontent.com/119122478/229036144-15b91461-5fda-421d-899e-73cc5b6dda9b.png)
+![image](https://user-images.githubusercontent.com/119122478/229036264-0d35f849-67a0-482d-a0bd-ce41ee93afc5.png)
+![image](https://user-images.githubusercontent.com/119122478/229036598-0781b0dc-2305-4a66-af8d-637172a55ef9.png)
+![image](https://user-images.githubusercontent.com/119122478/229036771-9f63684b-e4ab-44e8-a50f-630db426c012.png)
+![image](https://user-images.githubusercontent.com/119122478/229037010-84d15353-2ec8-4119-8297-6783e9a4e8be.png)
+![image](https://user-images.githubusercontent.com/119122478/229037179-9d4199fe-0a55-4dcb-9637-da5910dcbdb5.png)
+![image](https://user-images.githubusercontent.com/119122478/229037380-78731fb6-054a-4f07-aef0-a776d1af1db6.png)
+![image](https://user-images.githubusercontent.com/119122478/229037601-eda6cc46-e09b-47c2-9d43-4bcf39c87a59.png)
+![image](https://user-images.githubusercontent.com/119122478/229037763-edca0e13-8441-44e4-8537-1a1136376581.png)
+![image](https://user-images.githubusercontent.com/119122478/229037919-58f43a95-4516-4774-b38f-3ca7d724960e.png)
+![image](https://user-images.githubusercontent.com/119122478/229038041-c67c0345-e77f-4c99-b634-2e5d5d810164.png)
+
+## Result :
+Thus we applied Bivariate/Multivariate Analysis Successfully
+
+
+
+
+
+
+
