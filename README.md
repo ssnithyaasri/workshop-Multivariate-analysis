@@ -1,10 +1,10 @@
 ## workshop-Multivariate-analysis
 
-##Aim:
+## Aim:
 
 To Perform Bivariate/Multivariate Analysis
 
-##Algorithm:
+## Algorithm:
 
 Read the given data 2.Get information from the data 3.Perform the Bivariate/Multivariate Analysis
 Save the clean data to File
