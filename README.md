@@ -91,7 +91,9 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/119122478/229037010-84d15353-2ec8-4119-8297-6783e9a4e8be.png)
 ![image](https://user-images.githubusercontent.com/119122478/229037179-9d4199fe-0a55-4dcb-9637-da5910dcbdb5.png)
 ![image](https://user-images.githubusercontent.com/119122478/229037380-78731fb6-054a-4f07-aef0-a776d1af1db6.png)
+
 ![image](https://user-images.githubusercontent.com/119122478/229037601-eda6cc46-e09b-47c2-9d43-4bcf39c87a59.png)
+
 ![image](https://user-images.githubusercontent.com/119122478/229037763-edca0e13-8441-44e4-8537-1a1136376581.png)
 ![image](https://user-images.githubusercontent.com/119122478/229037919-58f43a95-4516-4774-b38f-3ca7d724960e.png)
 ![image](https://user-images.githubusercontent.com/119122478/229038041-c67c0345-e77f-4c99-b634-2e5d5d810164.png)
