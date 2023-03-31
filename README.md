@@ -1,4 +1,4 @@
-## workshop-Multivariate-analysis
+### workshop-Multivariate-analysis
 
 ## Aim:
 
@@ -96,6 +96,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/119122478/229038041-c67c0345-e77f-4c99-b634-2e5d5d810164.png)
 
 ## Result :
+
 Thus we applied Bivariate/Multivariate Analysis Successfully
 
 
