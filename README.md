@@ -9,7 +9,7 @@ To Perform Bivariate/Multivariate Analysis
 Read the given data 2.Get information from the data 3.Perform the Bivariate/Multivariate Analysis
 Save the clean data to File
 
-## programe
+## code:
 
 NAME:Nithyaa sri S S
 REG.NO:212222230100
