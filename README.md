@@ -90,7 +90,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/119122478/229036144-15b91461-5fda-421d-899e-73cc5b6dda9b.png)
 
-![image](https://user-images.githubusercontent.com/119122478/229036264-0d35f849-67a0-482d-a0bd-ce41ee93afc5.png
+![image](https://user-images.githubusercontent.com/119122478/229036264-0d35f849-67a0-482d-a0bd-ce41ee93afc5.png)
 
 ![image](https://user-images.githubusercontent.com/119122478/229036598-0781b0dc-2305-4a66-af8d-637172a55ef9.png)
 
